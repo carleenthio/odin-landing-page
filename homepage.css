@@ -23,6 +23,20 @@
     grid-row: 1/2;
     grid-column: 3;
 }
+.points{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 1em;
+}
+.point-one{
+    width: 40%;
+
+}
+.point-two{
+    width: 40%;
+
+}
 img{
     width: 50%;
 }
