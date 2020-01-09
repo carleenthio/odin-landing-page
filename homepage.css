@@ -36,15 +36,11 @@
     flex-direction: row;
     justify-content: space-evenly;
     padding-top: 1em;
+    border-color: black;
+    width: 90%;
+    margin: auto;
 }
-.point-one{
-    width: 40%;
 
-}
-.point-two{
-    width: 40%;
-
-}
 img{
     width: 50%;
 }
